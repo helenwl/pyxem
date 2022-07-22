@@ -1,5 +1,6 @@
 # Test files
 file_01.pickle
+pyxem/importantinfo.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
